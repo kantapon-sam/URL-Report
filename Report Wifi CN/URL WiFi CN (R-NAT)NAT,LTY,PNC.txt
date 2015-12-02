@@ -1,0 +1,48 @@
+//CGNAT TSG2#1
+1,http://cacti04/cacti/graph_xport.php?local_graph_id=6434&rra_id=2&view_type=
+2,http://cacti04/cacti/graph_xport.php?local_graph_id=10003&rra_id=2&view_type=
+3,http://cacti04/cacti/graph_xport.php?local_graph_id=12942&rra_id=2&view_type=
+//CGNAT TSG2#2
+4,http://cacti04/cacti/graph_xport.php?local_graph_id=13660&rra_id=2&view_type=
+5,http://cacti04/cacti/graph_xport.php?local_graph_id=13649&rra_id=2&view_type=
+6,http://cacti04/cacti/graph_xport.php?local_graph_id=13661&rra_id=2&view_type=
+//NAT PNC2#1
+7,http://cacti04/cacti/graph_xport.php?local_graph_id=13701&rra_id=2&view_type=
+8,http://cacti04/cacti/graph_xport.php?local_graph_id=13703&rra_id=2&view_type=
+9,http://cacti04/cacti/graph_xport.php?local_graph_id=13704&rra_id=2&view_type=
+//NAT PNC2#2
+10,http://cacti04/cacti/graph_xport.php?local_graph_id=10000&rra_id=2&view_type=
+11,http://cacti04/cacti/graph_xport.php?local_graph_id=10001&rra_id=2&view_type=
+12,http://cacti04/cacti/graph_xport.php?local_graph_id=12946&rra_id=2&view_type=
+//LTY Juniper Caching #1
+13,http://cacti04/cacti/graph_xport.php?local_graph_id=16851&rra_id=2&view_type=
+14,http://cacti04/cacti/graph_xport.php?local_graph_id=15786&rra_id=2&view_type=
+15,http://cacti04/cacti/graph_xport.php?local_graph_id=15806&rra_id=2&view_type=
+16,http://cacti04/cacti/graph_xport.php?local_graph_id=15810&rra_id=2&view_type=
+//LTY Juniper Caching #2
+17,http://cacti04/cacti/graph_xport.php?local_graph_id=16852&rra_id=2&view_type=
+18,http://cacti04/cacti/graph_xport.php?local_graph_id=16153&rra_id=2&view_type=
+19,http://cacti04/cacti/graph_xport.php?local_graph_id=16288&rra_id=2&view_type=
+20,http://cacti04/cacti/graph_xport.php?local_graph_id=16158&rra_id=2&view_type=
+//LTY Juniper Caching #3
+21,http://cacti04/cacti/graph_xport.php?local_graph_id=17848&rra_id=2&view_type=
+22,http://cacti04/cacti/graph_xport.php?local_graph_id=17845&rra_id=2&view_type=
+23,http://cacti04/cacti/graph_xport.php?local_graph_id=17855&rra_id=2&view_type=
+24,http://cacti04/cacti/graph_xport.php?local_graph_id=17852&rra_id=2&view_type=
+//LTY Juniper Caching #4
+25,http://cacti04/cacti/graph_xport.php?local_graph_id=17853&rra_id=2&view_type=
+26,http://cacti04/cacti/graph_xport.php?local_graph_id=17844&rra_id=2&view_type=
+27,http://cacti04/cacti/graph_xport.php?local_graph_id=17854&rra_id=2&view_type=
+28,http://cacti04/cacti/graph_xport.php?local_graph_id=17851&rra_id=2&view_type=
+//PNC1 Juniper Caching #1
+29,http://cacti04/cacti/graph_xport.php?local_graph_id=16685&rra_id=2&view_type=
+30,http://cacti04/cacti/graph_xport.php?local_graph_id=16858&rra_id=2&view_type=
+30,http://cacti04/cacti/graph_xport.php?local_graph_id=15621&rra_id=2&view_type=
+31,http://cacti04/cacti/graph_xport.php?local_graph_id=15805&rra_id=2&view_type=
+32,http://cacti04/cacti/graph_xport.php?local_graph_id=15809&rra_id=2&view_type=
+//PNC1 Juniper Caching #2
+33,http://cacti04/cacti/graph_xport.php?local_graph_id=16778&rra_id=2&view_type=
+34,http://cacti04/cacti/graph_xport.php?local_graph_id=16781&rra_id=2&view_type=
+35,http://cacti04/cacti/graph_xport.php?local_graph_id=16290&rra_id=2&view_type=
+36,http://cacti04/cacti/graph_xport.php?local_graph_id=16287&rra_id=2&view_type=
+37,http://cacti04/cacti/graph_xport.php?local_graph_id=16164&rra_id=2&view_type=
