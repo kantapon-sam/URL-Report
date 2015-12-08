@@ -1,0 +1,4 @@
+1,http://cacti04/cacti/graph_xport.php?local_graph_id=18358&rra_id=2&view_type=
+2,http://cacti04/cacti/graph_xport.php?local_graph_id=18359&rra_id=2&view_type=
+3,http://cacti04/cacti/graph_xport.php?local_graph_id=18368&rra_id=2&view_type=
+4,http://cacti04/cacti/graph_xport.php?local_graph_id=18370&rra_id=2&view_type=

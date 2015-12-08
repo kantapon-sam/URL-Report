@@ -1,0 +1,11 @@
+1,http://cacti04/cacti/graph_xport.php?local_graph_id=16307&rra_id=2&view_type=
+2,http://cacti04/cacti/graph_xport.php?local_graph_id=16308&rra_id=2&view_type=
+3,http://cacti04/cacti/graph_xport.php?local_graph_id=16309&rra_id=2&view_type=
+4,http://cacti04/cacti/graph_xport.php?local_graph_id=16310&rra_id=2&view_type=
+5,http://cacti04/cacti/graph_xport.php?local_graph_id=16311&rra_id=2&view_type=
+6,http://cacti04/cacti/graph_xport.php?local_graph_id=16312&rra_id=2&view_type=
+7,http://cacti04/cacti/graph_xport.php?local_graph_id=16313&rra_id=2&view_type=
+8,http://cacti04/cacti/graph_xport.php?local_graph_id=16314&rra_id=2&view_type=
+9,http://cacti04/cacti/graph_xport.php?local_graph_id=16315&rra_id=2&view_type=
+10,http://cacti04/cacti/graph_xport.php?local_graph_id=16316&rra_id=2&view_type=
+,/
